@@ -1,0 +1,15 @@
+{
+  "high_score": 5,
+  "best_time": 999999,
+  "stars": {
+    "1": 3,
+    "2": 3,
+    "3": 2
+  },
+  "unlocked_levels": 4,
+  "achievements": [
+    "first_win",
+    "first_coin",
+    "no_deaths"
+  ]
+}
